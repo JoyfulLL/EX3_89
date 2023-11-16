@@ -22,7 +22,7 @@ def recruit(request):
         resumeForm = ResumeForm()
     return render(
         request, 'recruit.html', {
-            'active_menu': 'contacts',
+            'active_menu': 'contact',
             'sub_menu': 'recruit',
             'AdList': AdList,
             'resumeForm': resumeForm,
