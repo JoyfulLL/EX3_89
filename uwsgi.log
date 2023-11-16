@@ -3069,3 +3069,125 @@ Prefix dict has been built successfully.
 [pid: 118205|app: 0|req: 417/417] 222.200.254.200 () {42 vars in 797 bytes} [Thu Nov 16 22:04:03 2023] GET /admin/jsi18n/ => generated 8398 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
 [pid: 118205|app: 0|req: 418/418] 194.187.176.45 () {42 vars in 576 bytes} [Thu Nov 16 22:09:38 2023] GET / => generated 19901 bytes in 11 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
 [pid: 118205|app: 0|req: 419/419] 194.187.176.119 () {42 vars in 599 bytes} [Thu Nov 16 22:09:39 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 420/420] 222.200.254.198 () {52 vars in 1257 bytes} [Thu Nov 16 22:20:38 2023] POST /admin/serviceApp89/doc/2/change/ => generated 0 bytes in 13 msecs (HTTP/1.1 302) 10 headers in 647 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 421/421] 222.200.254.198 () {46 vars in 1288 bytes} [Thu Nov 16 22:20:38 2023] GET /admin/serviceApp89/doc/ => generated 8861 bytes in 13 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 422/422] 222.200.254.198 () {42 vars in 788 bytes} [Thu Nov 16 22:20:42 2023] GET /admin/jsi18n/ => generated 8398 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 423/423] 222.200.254.198 () {52 vars in 1158 bytes} [Thu Nov 16 22:20:45 2023] POST /admin/serviceApp89/doc/ => generated 7574 bytes in 15 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 424/424] 222.200.254.198 () {52 vars in 1158 bytes} [Thu Nov 16 22:20:45 2023] POST /admin/serviceApp89/doc/ => generated 0 bytes in 15 msecs (HTTP/1.1 302) 10 headers in 543 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 425/425] 222.200.254.198 () {46 vars in 1175 bytes} [Thu Nov 16 22:20:45 2023] GET /admin/serviceApp89/doc/ => generated 7607 bytes in 12 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 426/426] 222.200.254.198 () {42 vars in 788 bytes} [Thu Nov 16 22:20:46 2023] GET /admin/jsi18n/ => generated 8398 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 427/427] 222.200.254.198 () {44 vars in 983 bytes} [Thu Nov 16 22:20:47 2023] GET /admin/serviceApp89/doc/add/ => generated 9627 bytes in 13 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 428/428] 222.200.254.198 () {42 vars in 792 bytes} [Thu Nov 16 22:20:47 2023] GET /admin/jsi18n/ => generated 8398 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 429/429] 222.200.254.198 () {52 vars in 1248 bytes} [Thu Nov 16 22:21:05 2023] POST /admin/serviceApp89/doc/add/ => generated 0 bytes in 13 msecs (HTTP/1.1 302) 10 headers in 621 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 430/430] 222.200.254.198 () {46 vars in 1257 bytes} [Thu Nov 16 22:21:05 2023] GET /admin/serviceApp89/doc/ => generated 8825 bytes in 12 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 431/431] 222.200.254.198 () {42 vars in 788 bytes} [Thu Nov 16 22:21:05 2023] GET /admin/jsi18n/ => generated 8398 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 432/432] 222.200.254.198 () {46 vars in 931 bytes} [Thu Nov 16 22:21:09 2023] GET / => generated 19901 bytes in 11 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 433/433] 222.200.254.198 () {44 vars in 950 bytes} [Thu Nov 16 22:21:11 2023] GET /serviceApp89/download/ => generated 8830 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 434/434] 222.200.254.198 () {44 vars in 972 bytes} [Thu Nov 16 22:21:13 2023] GET /serviceApp89/getDoc/4/ => generated 1554452 bytes in 8 msecs (HTTP/1.1 200) 5 headers in 211 bytes (3037 switches on core 0)
+[pid: 118205|app: 0|req: 435/435] 222.200.254.199 () {46 vars in 843 bytes} [Thu Nov 16 22:21:13 2023] GET /serviceApp89/getDoc/4/ => generated 1554452 bytes in 8 msecs (HTTP/1.1 200) 5 headers in 211 bytes (3037 switches on core 0)
+2
+[pid: 118205|app: 0|req: 436/436] 222.200.254.198 () {44 vars in 962 bytes} [Thu Nov 16 22:21:21 2023] GET /productApp89/products/robot/ => generated 10828 bytes in 9 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 437/437] 222.200.254.198 () {44 vars in 978 bytes} [Thu Nov 16 22:21:22 2023] GET /serviceApp89/download/ => generated 8830 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 438/438] 222.200.254.198 () {44 vars in 983 bytes} [Thu Nov 16 22:22:29 2023] GET /admin/serviceApp89/doc/add/ => generated 9627 bytes in 13 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 439/439] 222.200.254.198 () {42 vars in 792 bytes} [Thu Nov 16 22:22:29 2023] GET /admin/jsi18n/ => generated 8398 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 440/440] 222.200.254.198 () {52 vars in 1242 bytes} [Thu Nov 16 22:22:47 2023] POST /admin/serviceApp89/doc/add/ => generated 0 bytes in 11 msecs (HTTP/1.1 302) 10 headers in 627 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 441/441] 222.200.254.198 () {46 vars in 1263 bytes} [Thu Nov 16 22:22:47 2023] GET /admin/serviceApp89/doc/ => generated 9039 bytes in 13 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 442/442] 222.200.254.198 () {42 vars in 788 bytes} [Thu Nov 16 22:22:47 2023] GET /admin/jsi18n/ => generated 8398 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 443/443] 222.200.254.198 () {48 vars in 1031 bytes} [Thu Nov 16 22:22:51 2023] GET /serviceApp89/download/ => generated 9138 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 444/444] 222.200.254.198 () {46 vars in 897 bytes} [Thu Nov 16 22:22:51 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 445/445] 222.200.254.198 () {44 vars in 972 bytes} [Thu Nov 16 22:22:52 2023] GET /serviceApp89/getDoc/5/ => generated 1747 bytes in 2 msecs (HTTP/1.1 200) 5 headers in 198 bytes (4 switches on core 0)
+[pid: 118205|app: 0|req: 446/446] 222.200.254.198 () {46 vars in 843 bytes} [Thu Nov 16 22:22:53 2023] GET /serviceApp89/getDoc/5/ => generated 1747 bytes in 2 msecs (HTTP/1.1 200) 5 headers in 198 bytes (4 switches on core 0)
+[pid: 118205|app: 0|req: 447/447] 222.200.254.198 () {44 vars in 983 bytes} [Thu Nov 16 22:23:30 2023] GET /admin/serviceApp89/doc/add/ => generated 9627 bytes in 13 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 448/448] 222.200.254.198 () {42 vars in 792 bytes} [Thu Nov 16 22:23:30 2023] GET /admin/jsi18n/ => generated 8398 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 449/449] 222.200.254.198 () {52 vars in 1244 bytes} [Thu Nov 16 22:23:51 2023] POST /admin/serviceApp89/doc/add/ => generated 0 bytes in 12 msecs (HTTP/1.1 302) 10 headers in 627 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 450/450] 222.200.254.198 () {46 vars in 1263 bytes} [Thu Nov 16 22:23:51 2023] GET /admin/serviceApp89/doc/ => generated 9252 bytes in 13 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 451/451] 222.200.254.198 () {42 vars in 788 bytes} [Thu Nov 16 22:23:51 2023] GET /admin/jsi18n/ => generated 8398 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 452/452] 222.200.254.198 () {44 vars in 993 bytes} [Thu Nov 16 22:23:53 2023] GET /admin/serviceApp89/doc/6/change/ => generated 10198 bytes in 14 msecs (HTTP/1.1 200) 9 headers in 462 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 453/453] 222.200.254.198 () {42 vars in 797 bytes} [Thu Nov 16 22:23:53 2023] GET /admin/jsi18n/ => generated 8398 bytes in 4 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 454/454] 222.200.254.198 () {52 vars in 1257 bytes} [Thu Nov 16 22:24:06 2023] POST /admin/serviceApp89/doc/6/change/ => generated 0 bytes in 11 msecs (HTTP/1.1 302) 10 headers in 627 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 455/455] 222.200.254.198 () {46 vars in 1268 bytes} [Thu Nov 16 22:24:06 2023] GET /admin/serviceApp89/doc/ => generated 9252 bytes in 13 msecs (HTTP/1.1 200) 10 headers in 559 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 456/456] 222.200.254.198 () {42 vars in 788 bytes} [Thu Nov 16 22:24:07 2023] GET /admin/jsi18n/ => generated 8398 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 457/457] 222.200.254.198 () {48 vars in 1031 bytes} [Thu Nov 16 22:24:10 2023] GET /serviceApp89/download/ => generated 9446 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 458/458] 222.200.254.196 () {46 vars in 897 bytes} [Thu Nov 16 22:24:10 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 459/459] 222.200.254.196 () {44 vars in 970 bytes} [Thu Nov 16 22:24:14 2023] GET /scienceApp89/science/ => generated 7958 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 460/460] 222.200.254.198 () {44 vars in 969 bytes} [Thu Nov 16 22:24:16 2023] GET /contactApp89/contact/ => generated 11303 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 461/461] 222.200.254.196 () {44 vars in 969 bytes} [Thu Nov 16 22:24:22 2023] GET /contactApp89/recruit/ => generated 16105 bytes in 8 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 462/462] 222.200.254.198 () {44 vars in 969 bytes} [Thu Nov 16 22:27:51 2023] GET /contactApp89/contact/ => generated 11303 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 463/463] 222.200.254.198 () {44 vars in 969 bytes} [Thu Nov 16 22:27:53 2023] GET /contactApp89/recruit/ => generated 16105 bytes in 9 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 464/464] 222.200.254.197 () {48 vars in 1022 bytes} [Thu Nov 16 22:30:26 2023] GET /contactApp89/recruit/ => generated 16105 bytes in 9 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 465/465] 222.200.254.196 () {46 vars in 896 bytes} [Thu Nov 16 22:30:27 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 466/466] 222.200.254.196 () {44 vars in 969 bytes} [Thu Nov 16 22:30:30 2023] GET /contactApp89/recruit/ => generated 16105 bytes in 9 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 467/467] 222.200.254.196 () {44 vars in 969 bytes} [Thu Nov 16 22:30:31 2023] GET /contactApp89/contact/ => generated 11303 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 118205|app: 0|req: 468/468] 222.200.254.196 () {44 vars in 969 bytes} [Thu Nov 16 22:30:32 2023] GET /contactApp89/recruit/ => generated 16105 bytes in 9 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+...gracefully killing workers...
+Gracefully killing worker 1 (pid: 118205)...
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/EX3_89
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (127.0.0.1:8001)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.23 (64bit) on [Thu Nov 16 22:31:27 2023] ***
+compiled with version: 11.4.0 on 11 November 2023 04:25:47
+os: Linux-5.15.0-83-generic #92-Ubuntu SMP Mon Aug 14 09:30:42 UTC 2023
+nodename: iZiqxv45wnlwtzZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 2
+current working directory: /home/EX3_89
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/EX3_89/
+your processes number limit is 6465
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8001 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55ec41f08560
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 145808 bytes (142 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x55ec41f08560 pid: 4597 (default app)
+mountpoint  already configured. skip.
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 4597)
+spawned uWSGI worker 1 (pid: 149051, cores: 1)
+[pid: 149051|app: 0|req: 1/1] 222.200.254.196 () {48 vars in 1022 bytes} [Thu Nov 16 22:31:29 2023] GET /contactApp89/recruit/ => generated 16103 bytes in 803 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 2/2] 222.200.254.197 () {46 vars in 896 bytes} [Thu Nov 16 22:31:30 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 3/3] 222.200.254.197 () {44 vars in 969 bytes} [Thu Nov 16 22:31:32 2023] GET /contactApp89/contact/ => generated 11303 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 4/4] 222.200.254.197 () {44 vars in 969 bytes} [Thu Nov 16 22:31:33 2023] GET /contactApp89/recruit/ => generated 16103 bytes in 10 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 5/5] 222.200.254.197 () {44 vars in 969 bytes} [Thu Nov 16 22:31:34 2023] GET /scienceApp89/science/ => generated 7958 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 6/6] 222.200.254.197 () {44 vars in 971 bytes} [Thu Nov 16 22:31:38 2023] GET /serviceApp89/download/ => generated 9446 bytes in 8 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 7/7] 222.200.254.197 () {44 vars in 972 bytes} [Thu Nov 16 22:31:39 2023] GET /serviceApp89/platform/ => generated 8222 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+2
+[pid: 149051|app: 0|req: 8/8] 222.200.254.197 () {44 vars in 984 bytes} [Thu Nov 16 22:31:41 2023] GET /productApp89/products/robot/ => generated 10828 bytes in 11 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 9/9] 222.200.254.197 () {44 vars in 988 bytes} [Thu Nov 16 22:31:43 2023] GET /productApp89/products/face/ => generated 9519 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 10/10] 222.200.254.197 () {44 vars in 993 bytes} [Thu Nov 16 22:31:44 2023] GET /productApp89/products/monitor/ => generated 9492 bytes in 6 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 11/11] 222.200.254.197 () {44 vars in 982 bytes} [Thu Nov 16 22:31:45 2023] GET /newsApp89/news/company/ => generated 12196 bytes in 12 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 12/12] 222.200.254.197 () {44 vars in 977 bytes} [Thu Nov 16 22:31:46 2023] GET /newsApp89/news/industry/ => generated 11335 bytes in 8 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 13/13] 222.200.254.197 () {44 vars in 974 bytes} [Thu Nov 16 22:31:47 2023] GET /newsApp89/news/notice/ => generated 12299 bytes in 9 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 14/14] 222.200.254.197 () {44 vars in 964 bytes} [Thu Nov 16 22:31:48 2023] GET /aboutApp89/survey/ => generated 9047 bytes in 4 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 15/15] 222.200.254.197 () {44 vars in 958 bytes} [Thu Nov 16 22:31:49 2023] GET /aboutApp89/honor/ => generated 8914 bytes in 5 msecs (HTTP/1.1 200) 5 headers in 167 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 16/16] 222.200.254.196 () {44 vars in 923 bytes} [Thu Nov 16 22:31:50 2023] GET / => generated 19901 bytes in 15 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 17/17] 222.200.254.196 () {44 vars in 948 bytes} [Thu Nov 16 22:31:52 2023] GET /contactApp89/recruit/ => generated 16103 bytes in 9 msecs (HTTP/1.1 200) 7 headers in 350 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 18/18] 222.200.254.196 () {44 vars in 969 bytes} [Thu Nov 16 22:31:55 2023] GET /contactApp89/contact/ => generated 11303 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 19/19] 222.200.254.196 () {48 vars in 1037 bytes} [Thu Nov 16 22:32:36 2023] GET /admin/serviceApp89/doc/ => generated 9057 bytes in 42 msecs (HTTP/1.1 200) 9 headers in 461 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 20/20] 222.200.254.199 () {46 vars in 841 bytes} [Thu Nov 16 22:32:36 2023] GET /admin/jsi18n/ => generated 8398 bytes in 5 msecs (HTTP/1.1 200) 6 headers in 189 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 21/21] 222.200.254.197 () {46 vars in 898 bytes} [Thu Nov 16 22:32:36 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 22/22] 222.200.254.197 () {44 vars in 941 bytes} [Thu Nov 16 22:32:38 2023] GET /admin/ => generated 10076 bytes in 17 msecs (HTTP/1.1 200) 8 headers in 294 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 23/23] 222.200.254.198 () {46 vars in 1000 bytes} [Thu Nov 16 22:34:21 2023] GET /contactApp89/contact/ => generated 11303 bytes in 3 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 24/24] 222.200.254.198 () {42 vars in 843 bytes} [Thu Nov 16 22:34:21 2023] GET /favicon.ico => generated 179 bytes in 1 msecs (HTTP/1.1 404) 5 headers in 158 bytes (1 switches on core 0)
+[pid: 149051|app: 0|req: 25/25] 222.200.254.198 () {44 vars in 927 bytes} [Thu Nov 16 22:34:22 2023] GET / => generated 19901 bytes in 12 msecs (HTTP/1.1 200) 5 headers in 168 bytes (1 switches on core 0)
