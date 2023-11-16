@@ -36,8 +36,7 @@ def getDoc(request, id):
     filepath = '%s/media/%s/%s' % (os.getcwd(), update_to, filename)
     response = StreamingHttpResponse(read_file(filepath, 512))
     response['Content-Type'] = 'application/octet-stream'
-    response['Content-Disposition'] = 'attachment;filename="{}"'.format(
-        filename)
+    response['Content-Disposition'] = 'attachment;filename="{}"'.format(filename)
     return response
 
 
