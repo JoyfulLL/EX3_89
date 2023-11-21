@@ -3,12 +3,12 @@
 }
 
 .phone {
-  color: #666;
+  color: #9575CD;
   float: right;
 }
 
 .mail {
-  color: #666;
+  color: #9575CD;
   float: right;
 }
 
@@ -34,6 +34,9 @@
   border: 0px;
   background-color: beige;
   margin-top: 0px;
+}
+.bodyall{
+	background-color: #F9FBE7;
 }
 
 .navbar-default .navbar-nav .active a,
