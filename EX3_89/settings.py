@@ -35,6 +35,7 @@ ALLOWED_HOSTS = ['*',]
 # Application definition
 
 INSTALLED_APPS = [
+    'simpleui',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -135,7 +136,9 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 
-STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static')
+]
 #STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 MEDIA_URL = '/media/'
@@ -161,3 +164,8 @@ EMAIL_PORT = 25                           # 端口号
 EMAIL_HOST_USER = '3315370938@qq.com'           # 企业QQ账号
 EMAIL_HOST_PASSWORD = 'yebxmwwczwchdagi'        # 授权码
 EMAIL_USE_TLS = True
+
+SIMPLEUI_HOME_INFO = False
+SIMPLEUI_ANALYSIS = False
+# 设置默认主题，指向主题css文件名。Element-ui风格
+SIMPLEUI_DEFAULT_THEME = 'element.css'
